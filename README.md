@@ -12,10 +12,10 @@ PlanlamaPro uygulamamızı kullanmalısınız çünkü:
 * Oluşturduğunuz etkinliği diyagramlar sayesinde detaylandırarak  zamanı daha iyi değerlendirebilirsiniz
 * Etkinlik odanızdaki anı bölümüne eklediğiniz resimler ile anı ölümsüzleştirebilirsiniz
 
-<h2>PlanlamaPro Nasıl Geliştirildi ?</h2>
-<p>Biz bu uygulamayı geliştirirken birçok farklı yazılım teknolojileri ve metodlarını kullandık. Bunların hepsi size en iyi deneyimi sunmak için.</p>
-<p>Kullandığımız teknolojiler ve Metodojiler şunlardır:</p>
-    <h3>Kullanılan Teknolojiler</h3>
+## PlanlamaPro Nasıl Geliştirildi ?
+Biz bu uygulamayı geliştirirken birçok farklı yazılım teknolojileri ve metodlarını kullandık. Bunların hepsi size en iyi deneyimi sunmak için.
+Kullandığımız teknolojiler ve Metodojiler şunlardır:
+* ### Kullanılan Teknolojiler
    
 
 
