@@ -4,6 +4,7 @@
  </div>
  
  <h2>PlanlamaPro Nedir ?</h2>
+ <p>PlanlamaPro bir zaman yönetim aracıdır. PlanlamaPro sayesinde zamanınız, proje yönetimi, kişisel etkinlikler, grup etkinlikleri ve daha farklı etkinliklere etkili bir şekilde ayarlayabilirsinz. Kullanıcı dostu arayüzü ve sunduğu zaman diyagramıyla vaktinizin her saniyesini verimli bir şekilde kullanabilirsiniz.  </p>
 
 
 
