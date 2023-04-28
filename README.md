@@ -3,10 +3,10 @@
  <h1>Planlı Yaşa, Hayatı Yaşa</h1>
  </div>
  
- <h2>PlanlamaPro Nedir ?</h2>
+## PlanlamaPro Nedir ?
  <p>PlanlamaPro bir zaman yönetim aracıdır. PlanlamaPro sayesinde zamanınızı, proje yönetimi, kişisel etkinlikler, grup etkinlikleri ve daha farklı etkinliklere göre etkili bir şekilde ayarlayabilirsinz. Kullanıcı dostu arayüzü ve sunduğu zaman diyagramıyla vaktinizin her saniyesini verimli bir şekilde kullanabilirsiniz.  </p>
  
- <h2> Neden PlanlamaPro ?</h2>
+## Neden PlanlamaPro ?
  <p>PlanlamaPro uygulamamızı kullanmalısınız çünkü:</p>
  <ul>
   <li>Etkinliklerinizi
