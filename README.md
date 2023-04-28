@@ -25,7 +25,7 @@ Kullandığımız teknolojiler ve Metodolojiler şunlardır:
 * Node.js
 * Javascript
 
-### Kullanılan Yazılım Geliştirme Metodoloji Arttırımlı Geliştirme
+### Kullanılan Yazılım Geliştirme Metodoloji: Arttırımlı Geliştirme
 
    
 
