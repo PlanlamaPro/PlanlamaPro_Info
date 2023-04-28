@@ -13,7 +13,7 @@ PlanlamaPro uygulamamızı kullanmalısınız çünkü:
 * Etkinlik odanızdaki anı bölümüne eklediğiniz resimler ile anı ölümsüzleştirebilirsiniz
 
 ## PlanlamaPro Nasıl Geliştirildi ?
-Biz bu uygulamayı geliştirirken birçok farklı yazılım teknolojileri ve metodlarını kullandık. Bunların hepsi size en iyi deneyimi sunmak için.
+Biz bu uygulamayı geliştirirken birçok farklı yazılım teknolojileri ve yazılım geliştirme metodolojisi kullandık. Bunların hepsi size en iyi deneyimi sunmak için.
 Kullandığımız teknolojiler ve Metodojiler şunlardır:
  ### Kullanılan Teknolojiler
 * React.js
