@@ -15,8 +15,8 @@ PlanlamaPro uygulamamızı kullanmalısınız çünkü:
 ## PlanlamaPro Nasıl Geliştirildi ?
 Biz bu uygulamayı geliştirirken birçok farklı yazılım teknolojileri ve metodlarını kullandık. Bunların hepsi size en iyi deneyimi sunmak için.
 Kullandığımız teknolojiler ve Metodojiler şunlardır:
-* ### Kullanılan Teknolojiler
-      * React.js
+ ### Kullanılan Teknolojiler
+* React.js
    
 
 
