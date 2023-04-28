@@ -23,6 +23,8 @@ bölümüne eklediğiniz resimler ile anı ölümsüzleştirebilirsiniz </li>
 <h2>PlanlamaPro Nasıl Geliştirildi ?</h2>
 <p>Biz bu uygulamayı geliştirirken birçok farklı yazılım teknolojileri ve metodlarını kullandık. Bunların hepsi size en iyi deneyimi sunmak için.</p>
 <p>Kullandığımız teknolojiler ve Metodojiler şunlardır:</p>
+* <h3>Kullanılan Teknolojiler</h3>
+   * React.js
 
 
 
