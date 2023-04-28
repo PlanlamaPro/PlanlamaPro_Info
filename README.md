@@ -17,6 +17,14 @@ Biz bu uygulamayı geliştirirken birçok farklı yazılım teknolojileri ve met
 Kullandığımız teknolojiler ve Metodojiler şunlardır:
  ### Kullanılan Teknolojiler
 * React.js
+* Reactflow
+* Html
+* Css
+* Tailwind
+* Express.js
+* Node.js
+* Javascript
+
    
 
 
