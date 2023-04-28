@@ -12,6 +12,12 @@
   <li>Etkinliklerinizi
 arkadaşlarınız ile birlikte kolayca
 ve keyifle oluşturabilirsiniz</li>
+ <li>Oluşturduğunuz etkinliği
+diyagramlar sayesinde
+detaylandırarak  zamanı daha iyi
+değerlendirebilirsiniz</li>
+ <li>Etkinlik odanızdaki anı
+bölümüne eklediğiniz resimler ile anı ölümsüzleştirebilirsiniz </li>
 </ul>
 
 
