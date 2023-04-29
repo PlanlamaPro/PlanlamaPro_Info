@@ -13,7 +13,7 @@ You should use our PlanlamaPro application because:
 * By detailing the activity you created with diagrams, you can better evaluate your time.
 * You can immortalize memories with pictures you add to the memory section in your activity room.
 
-## PHow was PlanlamaPro Developed?
+## How was PlanlamaPro Developed?
 
 We used various software technologies and development methodologies while developing this application to provide you the best experience. The technologies and methodologies we used are:
 ### Technologies that we used
