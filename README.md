@@ -26,6 +26,12 @@ Kullandığımız teknolojiler ve Metodolojiler şunlardır:
 * Javascript
 
 ### Kullanılan Yazılım Geliştirme Metodoloji: Arttırımlı Geliştirme
+* Artırımlı Yazılım Geliştirme metodolojisi, geliştirme sürecinin küçük adımlar halinde tekrarlanarak, sürecin daha fazla anlaşılmasını ve müşteri gereksinimlerinin daha iyi anlaşılmasını sağlayan bir çevik yazılım geliştirme yaklaşımıdır.
+* Bu metodolojide, geliştirme süreci bir dizi iterasyon veya artım içerir. Her artım, müşteri gereksinimlerine dayalı bir hedefi tamamlamak için tasarlanmıştır. Geliştirme süreci, bir artımın tamamlanması, test edilmesi ve kabul edilmesiyle sonuçlanır. Müşteri, her artımdan sonra ürünü inceleyerek geri bildirim sağlar. Bu geri bildirimler, sonraki artımların geliştirilmesi için kullanılır.
+<br />
+<br />
+Bu metodoloji sayesinde her seferinde kullanıcımıza daha da iyi bir uygulama deneyimi sunuyoruz. Sürekli çağın teknolojilerine ayak uyduran kullanıcı dostu uygulamamız   
+
 
    
 
