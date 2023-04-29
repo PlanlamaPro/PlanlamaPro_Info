@@ -40,7 +40,7 @@ Bu metodoloji sayesinde her güncellemede kullanıcımıza daha da iyi bir uygul
  
  ## Geliştirme Süreci Ve Çalışma Stratejisi
 Uygulama geliştirilirken ilk olarak proje amacına uygun teknolojileri tespit edildi. Buna göre tüm takım üyelerinin yatkın olduğu yazılım geliştirme araçlarını belirlendi. Böylece kullanıcı arayüzü tasarımı için react.js ve sunucu taraflı geliştirme için ise express.js teknolojilerini kullanılmaya karar verildi.<br />
-Bu kararlardan sonra süreci arttırımlı geliştirme metodolojisine uygun olacak şekilde gereksinim belirlendikten sonra bu gereksinim geliştirilir ve ardından test edildikten sonra bir sonraki gereksinim belirlenip geliştirme sürecine devam edilir. Böylece araştırma - geliştirme - test etme sürecimiz sorunsuz işlenmiş olunur. Aynı zamanda yapılan her değişiklik oluşturulan github repolarına kaydedilerek versiyon kontrolu ve geliştirme süreci daha belirgin hale getirilir
+Bu kararlardan sonra süreci arttırımlı geliştirme metodolojisine uygun olacak şekilde gereksinim belirlendikten sonra bu gereksinim geliştirilir ve ardından test edildikten sonra bir sonraki gereksinim belirlenip geliştirme sürecine devam edilir. Böylece araştırma - geliştirme - test etme süreci sorunsuz işlenmiş olur. Aynı zamanda yapılan her değişiklik oluşturulan github repolarına kaydedilerek versiyon kontrolu ve geliştirme süreci daha belirgin hale getirilir
  
  
 ## Uygulamada Var Olan Hizmetler
