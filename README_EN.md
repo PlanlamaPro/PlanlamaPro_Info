@@ -35,11 +35,11 @@ Thanks to this methodology, we offer our users a better application experience w
 
 ## Team Members
 
-Erdal Nayir: Full-stack developer - Event Room Design and Back-end Development
-Mert Büyükaksoy: Front-end developer - Diagram Development and Event Room Design
-Eda Dural: Front-end developer - Sign-up, Login Screen and Landing Page Design
-Ahmet Yıldırım: Front-end developer - Room Creation Form and Home Page Design
-Muhammet Furkan Portakal: Front-end developer - Room Creation Form and Home Page Design"
+* Erdal Nayir: Full-stack developer - Event Room Design and Back-end Development
+* Mert Büyükaksoy: Front-end developer - Diagram Development and Event Room Design
+* Eda Dural: Front-end developer - Sign-up, Login Screen and Landing Page Design
+* Ahmet Yıldırım: Front-end developer - Room Creation Form and Home Page Design
+* Muhammet Furkan Portakal: Front-end developer - Room Creation Form and Home Page Design"
 
 ## Development Process and Working Strategy
 
