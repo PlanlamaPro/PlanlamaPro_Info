@@ -37,6 +37,17 @@ Bu metodoloji sayesinde her güncellemede kullanıcımıza daha da iyi bir uygul
  * Eda Dural : Front-end developer - Kayıt olma, Giriş Yapma Ekranı ve Tanıtım Sayfası Tasarımı
  * Ahmet Yıldırım :  Front-end developer - Oda oluşturma formu ve Ana Sayfa Tasarımı
  * Muhammet Furkan Portakal :  Front-end developer - Oda oluşturma formu ve Ana Sayfa Tasarımı
+ 
+ 
+## Uygulamada Var Olan Hizmetler
+* Giriş yapa ve Kayıt Olma
+* Oda Oluşturma
+* Diyagram ile Etkinlik Yönetimi
+* Odaya Davet Etme
+* Resim Paylaşabilme
+* Oda Silme 
+* Yorum Yapabilme
+
 
 
    
