@@ -52,6 +52,19 @@ Bu kararlardan sonra süreci arttırımlı geliştirme metodolojisine uygun olac
 * Oda Silme 
 * Yorum Yapabilme
 
+## Destek Olun
+Beş kişilik takım olarak biz ortaya çıkardığımız bu uygulamadan dolayı gururlu ve mutluyuz, Yaptığımız işi severek ve bilerek yapıyoruz. Kullandığımız metodolojilerin ve teknolojilerin farkındayız ve bu süreçte bu alanda ilgiliyseniz bize yardımcı olmanızı çok isteriz! 
+
+### Nasıl Yardımcı Olabilirim?
+* Projemiz için oluşturduğumuz discord sunucusuna katılabilirsiniz.
+* Oluştruduğumuz github repolarındaki kodları kendi yerel makinenizde çalıştırıp hatalı bulduğunuz ya da eksik gördüğünüz yerleri bize raporlayabilirsiniz.
+* Pull request ile düzenlemeler yapabilirsiniz.
+* Projemize sponsor olabilirsiniz.
+* Projemizin github linkini, linkedln, twitter gibi sosyal medya ortamlarında paylaşabilirsiniz.  
+
+<br /> 
+En küçük katkıyı sağlayan bireyi bile projemizin ve ekibimizin bir parçası olarak görüyoruz. Sizlerden alacağımız destek için heyecanlıyız <3  
+
 
 
    
