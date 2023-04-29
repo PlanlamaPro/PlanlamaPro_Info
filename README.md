@@ -32,11 +32,11 @@ Kullandığımız teknolojiler ve Metodolojiler şunlardır:
 Bu metodoloji sayesinde her güncellemede kullanıcımıza daha da iyi bir uygulama deneyimi sunuyoruz. En az hatayla ve çağın teknolojilerine ayak uydurmuş uygulamamızı size sunduğumuz için gururluyuz! 
 
 ## Takım Üyeleri
- * Erdal Nayir : Full stack developer 
- * Mert Büyükaksoy :  Front-end developer
- * Eda Dural : Front-end developer
- * Ahmet Yıldırım :  Front-end developer
- * Muhammet Furkan Portakal :  Front-end developer
+ * Erdal Nayir : Full stack developer - Etkinlik Odası Tasarımı ve Back-end Geliştirme
+ * Mert Büyükaksoy :  Front-end developer - Diyagam Geliştirme ve Etkinlik Odası Tasarımı
+ * Eda Dural : Front-end developer - Kayıt olma, Giriş Yapma Ekranı ve Tanıtım Sayfası Tasarımı
+ * Ahmet Yıldırım :  Front-end developer - Oda oluşturma formu ve Ana Sayfa Tasarımı
+ * Muhammet Furkan Portakal :  Front-end developer - Oda oluşturma formu ve Ana Sayfa Tasarımı
 
 
    
