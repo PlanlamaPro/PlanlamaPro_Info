@@ -65,7 +65,7 @@ Beş kişilik takım olarak biz ortaya çıkardığımız bu uygulamadan dolayı
 <br /> 
 En basit katkıyı sağlayan bireyi bile projemizin ve ekibimizin bir parçası olarak görüyoruz. Sizlerden alacağımız destek için heyecanlıyız. 
 
-#### Discord sunucumuza katılmak için [tıklayın](https://discord.gg/TgDRXbZamZ))
+#### Discord sunucumuza katılmak için [tıklayın](https://discord.gg/TgDRXbZamZ)
 #### For english click [here](https://discord.gg/TgDRXbZamZ)
 
 
