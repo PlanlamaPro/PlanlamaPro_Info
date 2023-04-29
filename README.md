@@ -8,7 +8,7 @@
  
 ## Neden PlanlamaPro ?
 PlanlamaPro uygulamamızı kullanmalısınız çünkü:
-* Etkinliklerinizi arkadaşlarınız ile birlikte kolayca ve keyifle oluşturabilirsini
+* Etkinliklerinizi arkadaşlarınız ile birlikte kolayca ve keyifle oluşturabilirsiniz
 * Oluşturduğunuz etkinliği diyagramlar sayesinde detaylandırarak  zamanı daha iyi değerlendirebilirsiniz
 * Etkinlik odanızdaki anı bölümüne eklediğiniz resimler ile anı ölümsüzleştirebilirsiniz
 
@@ -30,6 +30,13 @@ Kullandığımız teknolojiler ve Metodolojiler şunlardır:
 * Bu metodolojide, geliştirme süreci bir dizi iterasyon veya artım içerir. Her artım, müşteri gereksinimlerine dayalı bir hedefi tamamlamak için tasarlanmıştır. Geliştirme süreci, bir artımın tamamlanması, test edilmesi ve kabul edilmesiyle sonuçlanır. Müşteri, her artımdan sonra ürünü inceleyerek geri bildirim sağlar. Bu geri bildirimler, sonraki artımların geliştirilmesi için kullanılır.
 <br />
 Bu metodoloji sayesinde her güncellemede kullanıcımıza daha da iyi bir uygulama deneyimi sunuyoruz. En az hatayla ve çağın teknolojilerine ayak uydurmuş uygulamamızı size sunduğumuz için gururluyuz! 
+
+## Takım Üyeleri
+ * Erdal Nayir : Full stack developer 
+ * Mert Büyükaksoy :  Front-end developer
+ * Eda Dural : Front-end developer
+ * Ahmet Yıldırım :  Front-end developer
+ * Muhammet Furkan Portakal :  Front-end developer
 
 
    
