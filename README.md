@@ -63,7 +63,9 @@ Beş kişilik takım olarak biz ortaya çıkardığımız bu uygulamadan dolayı
 * Projemizin github linkini, linkedln, twitter gibi sosyal medya ortamlarında paylaşabilirsiniz.  
 
 <br /> 
-En küçük katkıyı sağlayan bireyi bile projemizin ve ekibimizin bir parçası olarak görüyoruz. Sizlerden alacağımız destek için heyecanlıyız <3  
+En basit katkıyı sağlayan bireyi bile projemizin ve ekibimizin bir parçası olarak görüyoruz. Sizlerden alacağımız destek için heyecanlıyız. 
+
+#### 
 
 
 
