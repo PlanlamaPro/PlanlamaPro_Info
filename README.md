@@ -44,7 +44,7 @@ Bu kararlardan sonra süreci arttırımlı geliştirme metodolojisine uygun olac
  
  
 ## Uygulamada Var Olan Hizmetler
-* Giriş yapa ve Kayıt Olma
+* Giriş yapma ve Kayıt Olma
 * Oda Oluşturma
 * Diyagram ile Etkinlik Yönetimi
 * Odaya Davet Etme
