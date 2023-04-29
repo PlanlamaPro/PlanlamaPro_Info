@@ -28,8 +28,21 @@ We used various software technologies and development methodologies while develo
 
 ### Used Software Development Methodology: Incremental Development
 
-Incremental Software Development methodology is an agile software development approach that enables the development process to be repeated in small steps, allowing for a better understanding of the process and customer requirements.
-In this methodology, the development process involves a series of iterations or increments. Each increment is designed to complete a goal based on customer requirements. The development process ends with the completion, testing, and acceptance of an increment. The customer provides feedback by reviewing the product after each increment. This feedback is used to develop subsequent increments.
+* Incremental Software Development methodology is an agile software development approach that enables the development process to be repeated in small steps, allowing for a better understanding of the process and customer requirements.
+* In this methodology, the development process involves a series of iterations or increments. Each increment is designed to complete a goal based on customer requirements. The development process ends with the completion, testing, and acceptance of an increment. The customer provides feedback by reviewing the product after each increment. This feedback is used to develop subsequent increments.
 <br />
 Thanks to this methodology, we offer our users a better application experience with each update. We are proud to offer you our application that is compatible with current technologies and has the minimum error rate!
+
+## Team Members
+
+Erdal Nayir: Full-stack developer - Event Room Design and Back-end Development
+Mert Büyükaksoy: Front-end developer - Diagram Development and Event Room Design
+Eda Dural: Front-end developer - Sign-up, Login Screen and Landing Page Design
+Ahmet Yıldırım: Front-end developer - Room Creation Form and Home Page Design
+Muhammet Furkan Portakal: Front-end developer - Room Creation Form and Home Page Design"
+
+## Development Process and Working Strategy
+
+During the development of the application, suitable technologies for the project purpose were determined first. Accordingly, the software development tools that all team members are proficient in were identified. Thus, react.js was decided to be used for user interface design and express.js for server-side development.<br />
+After these decisions, the process was designed to be in accordance with the incremental development methodology. Accordingly, after the requirements are determined, they are developed and then tested, and the development process continues with the determination of the next requirement. Thus, the research-development-testing process is smoothly processed. Also, every change made is saved to the GitHub repository, making version control and development process more visible.
 
