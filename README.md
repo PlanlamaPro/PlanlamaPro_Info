@@ -3,6 +3,10 @@
      <img src="https://github.com/PlanlamaPro/PlanlamaPro_Info/blob/main/assets/images/logo_transparent.png" alt=”logo” height="300px" widht="300px">
  <h1>Planlı Yaşa, Hayatı Yaşa</h1>
  </div>
+ <div align="center" style="color:red;">
+     Demo prototip için [tıklayın](https://youtu.be/Qj5mVeBFR3g)
+ <h1>Planlı Yaşa, Hayatı Yaşa</h1>
+ </div>
  
 ## PlanlamaPro Nedir ?
  <p>PlanlamaPro bir zaman yönetim aracıdır. PlanlamaPro sayesinde zamanınızı, proje yönetimi, kişisel etkinlikler, grup etkinlikleri ve daha farklı etkinliklere göre etkili bir şekilde ayarlayabilirsinz. Kullanıcı dostu arayüzü ve sunduğu zaman diyagramıyla vaktinizin her saniyesini verimli bir şekilde kullanabilirsiniz.  </p>
