@@ -2,7 +2,7 @@
 <div align="center" style="color:red;">
      <img src="https://github.com/PlanlamaPro/PlanlamaPro_Info/blob/main/assets/images/logo_transparent.png" alt=”logo” height="300px" widht="300px">
  <h1>Planlı Yaşa, Hayatı Yaşa</h1>
-     <b>Demo prototip için</b>
+     <b>Demo prototip videosu için</b>
  <a href="https://youtu.be/Qj5mVeBFR3g" target="_blank"><b>tıklayın</b></a>
  </div>
  </div>
