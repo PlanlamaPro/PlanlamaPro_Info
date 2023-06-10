@@ -4,6 +4,8 @@
  <h1>Planlı Yaşa, Hayatı Yaşa</h1>
      <b>Demo prototip videosu için</b>
  <a href="https://youtu.be/Qj5mVeBFR3g" target="_blank"><b>tıklayın</b></a>
+     <b>Son demo ve sitenin kullanım videosu için tıklayın</b>
+     <a href="https://www.youtube.com/watch?v=a4H6dXVnsnI" target="_blank"><b>tıklayın</b></a>
  </div>
  </div>
  
