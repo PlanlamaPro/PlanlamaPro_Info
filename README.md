@@ -3,7 +3,7 @@
      <img src="https://github.com/PlanlamaPro/PlanlamaPro_Info/blob/main/assets/images/logo_transparent.png" alt=”logo” height="300px" widht="300px">
  <h1>Planlı Yaşa, Hayatı Yaşa</h1>
      <b>Demo prototip videosu için</b>
- <a href="https://youtu.be/Qj5mVeBFR3g" target="_blank"><b>tıklayın</b></a>
+ <a href="https://youtu.be/Qj5mVeBFR3g" target="_blank"><b>tıklayın<br></b></a>
      <b>Son demo ve sitenin kullanım videosu için tıklayın</b>
      <a href="https://www.youtube.com/watch?v=a4H6dXVnsnI" target="_blank"><b>tıklayın</b></a>
  </div>
